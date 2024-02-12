@@ -3,11 +3,9 @@
     <img src="https://i.imgur.com/MClOeqe.jpeg">
   </a>
 
-<h1 align="center"> Atlas MD
-</h1>
-
+<a href="https://git.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F40000&random=false&width=435&lines=SHIZUKA+MD;A+Multi+Device+Whatsapp+Bot;This+Bot+Is+Modified+Version;Of+Atlas+MD" alt="Typing SVG" /></a>
 <p align="center"> 
-Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Konnichiwa Senpai, I am "Shizuka" an Opensource WhatsApp bot modified by <a href="https://github.com/botskaking">botskaking</a> and his team "IronBotz" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
 <h3 align="center"> Atlas MD - The Future Is Here
 </h4>
