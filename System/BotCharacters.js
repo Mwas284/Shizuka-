@@ -1,20 +1,11 @@
 /* ---------------------------------------------------------------------------------/
-/                                                                                   /
-/             d8888 888    888                        888b     d888 8888888b.       /
-/            d88888 888    888                        8888b   d8888 888  "Y88b      /
-/           d88P888 888    888                        88888b.d88888 888    888      /
-/          d88P 888 888888 888  8888b.  .d8888b       888Y88888P888 888    888      /
-/         d88P  888 888    888     "88b 88K           888 Y888P 888 888    888      /
-/        d88P   888 888    888 .d888888 "Y8888b.      888  Y8P  888 888    888      /
-/       d8888888888 Y88b.  888 888  888      X88      888   "   888 888  .d88P      /
-/      d88P     888  "Y888 888 "Y888888  88888P'      888       888 8888888P"       /
-/                                                                                   / 
+/                             Modified By Ironman - github.com/botskaking                                                      /                                                        / 
 /-----------------------------------------------------------------------------------/
 / Author and Main Developer: FantoX                                                 /
 / Github: https://github.com/FantoX001/Atlas-MD                                     /
 / Powered By: Team ATLAS                                                            /
 /-----------------------------------------------------------------------------------/
-/             Meet Team ATLAS who holds all rights to this repository:              /
+/             Meet Team ATLAS who created and holds all rights to this repository:              /
 /                                                                                   /
 / 1. Pratyush - https://github.com/pratyush4932                                     /
 / 2. Ahmii - https://github.com/Ahmii-kun                                           /               
@@ -50,9 +41,8 @@
 16 --- Mai
 17 --- Yor
 18 --- Shinbou
-19 --- Eiko
-20 --- Shizuka
-
+19 --- Shizuka
+we recommends you to use 19 char
 Image Source: https://wall.alphacoders.com/
 Image Source: https://wallpapercave.com/
 Video Host: https://graph.org/
