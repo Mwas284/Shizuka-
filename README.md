@@ -41,7 +41,7 @@ Konnichiwa Senpai, I am "Shizuka" an Opensource WhatsApp bot modified by <a href
 ---
  <br>
  
- # 🧩 Deploy Atlas
+ # 🧩 Deploy Shizuka
      
 <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
@@ -52,7 +52,7 @@ Konnichiwa Senpai, I am "Shizuka" an Opensource WhatsApp bot modified by <a href
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/botskaking/Shizuka-">
+    <a href="https://repl.it/github/botskaking/Heyshizuka/)">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
@@ -116,7 +116,7 @@ Konnichiwa Senpai, I am "Shizuka" an Opensource WhatsApp bot modified by <a href
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/botskaking/Shizuka-">
+    <a href="https://heroku.com/deploy?template=https://github.com/botskaking/Heyshizuka">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
